@@ -1,3 +1,3 @@
-module example/hello
+module interpreter
 
 go 1.19
